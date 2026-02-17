@@ -1,4 +1,3 @@
-````markdown
 # Feedback App 🚗
 
 A full-stack web application built with **Flask** and **PostgreSQL** to collect and store customer service ratings for a car dealership.
@@ -33,7 +32,6 @@ This project uses `pipenv`. To install all necessary packages, run:
 ```bash
 pipenv install
 ```
-````
 
 ### 3. Run the Application
 
@@ -53,7 +51,3 @@ The app will be running at `http://127.0.0.1:5000/`.
 - `templates/`: Jinja2 HTML templates (`index.html`, `success.html`).
 - `static/`: Frontend assets (`style.css`, `logo.png`).
 - `Pipfile`: Dependency management.
-
-```
-
-```
